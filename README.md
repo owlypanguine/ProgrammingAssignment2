@@ -1,3 +1,5 @@
+###Note to grader: I completed this course in November and am resubmitting assignments to get the course certificate. 
+
 ### Introduction
 
 This second programming assignment will require you to write an R
